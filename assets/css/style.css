@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: "Open Sans", "sans-serif";
+}
+
+.custom-bg {
+    background-color: #E83E8C; 
+}
+
+
+#container1 {
+    padding: 0 10%;
+}
+
+.nav-item {
+    padding: 0 2%;
+}
+
+
+h1.display-3 {
+    padding: 4.75rem 0rem 1rem 0rem;
+    text-align: center;
+    color: #707070;
+    font-family: "open sans";
+    font-weight: 700;
+    font-weight: bold;
+
+}
+
+#rowuno {
+    padding: 7%;
+}
+
+#rowdos {
+    padding: 0 7%;
+    padding-bottom: 7%;
+}
+
+.card {
+    margin: auto;
+}
+
+.card-link {
+    text-decoration: none;
+}
+
+
+h2.display-6 {
+    padding: 1rem 0rem 1rem 0rem;
+    text-align: center;
+    color: #ffffff;
+    font-family: "open sans";
+    font-weight: 700;
+}
+
+
+.col-8 i {
+    padding-left: 40px;
+    padding-top: 10px;
+}
+
+footer {
+    background-color: #E83E8C;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
